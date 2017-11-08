@@ -1,1 +1,1 @@
-# SecretAgentSupply - more html/css practice. this week, responsive sites.
+# SecretAgentSupply - more html/css practice wit CodeAcademy. this week, responsive sites.
