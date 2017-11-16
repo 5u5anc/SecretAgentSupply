@@ -22,7 +22,7 @@ html {
 
 /**** main top header bar info ****/
 
-header {
+.header {
   background-color: black;
   width: 100%;
   height: 2.32rem;
@@ -30,13 +30,13 @@ header {
   padding-bottom: 0.66rem;
 }
 
-header img {
+.header img {
   height: 1.5rem;
   padding-left: 0.5rem;
   padding-right: 1rem;
 }
 
-header h4 {
+.header h4 {
   display: inline-block;
 }
 
